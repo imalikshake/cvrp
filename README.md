@@ -1,0 +1,9 @@
+# CVRP
+My own genetic algorithm to optimise the Capacitated Vehicle Routing Problem.
+
+Please see the poster in the repository for additional details.
+
+## How to Run
+``` ./start_cvrp ```
+
+There is a 30-minute timer on the code after which the program terminates.
